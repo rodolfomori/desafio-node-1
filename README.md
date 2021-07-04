@@ -32,7 +32,7 @@ Criei uma aplicação que fará o cadastro dos pedidos de uma hamburgueria, e vo
 ### Exemplo
 
 Se eu chamar a rota `POST /order` repassando `{ order: "X- Salada, 2 batatas grandes, 1 coca-cola", clienteName:"José", price: 44.50 }`,
-meu array de projetos deve ficar assim:
+o array deve ficar assim:
 
 ```js
 [
@@ -47,7 +47,7 @@ meu array de projetos deve ficar assim:
 
 ### Middlewares
 
-- Crie um middleware que será utilizado em todas rotas que recebem o parâmetro ID do projeto nos parâmetros da URL que verifica se o projeto com aquele ID existe. Se não existir retorne um erro, caso contrário permita a requisição continuar normalmente;
+- Crie um middleware que será utilizado em todas rotas que recebem o parâmetro ID, então ele deve verificar se o ID passado existe. Se não existir retorne um erro, caso contrário permita a requisição continuar normalmente;
 
 - Crie um middleware que é chamado em todas requisições que tenha um console.log que mostra o método da requisiçao(GET,POST,PUT,DELETE, etc) e também a url da requisição.
 
