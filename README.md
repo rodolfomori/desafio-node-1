@@ -24,7 +24,7 @@ Crie uma aplicação que fará o cadastro dos pedidos de uma hamburgueria, e voc
 
 - `GET /order/:id`: Essa rota recebe o `id` nos parâmetros e deve retornar um pedido específico.
 
-- `PATCH /order/:id`: Essa rota recebe o `id` nos parâmetros e assim que ela for chamada, deve colocar o status do pedido como "Pronto".
+- `PATCH /order/:id`: Essa rota recebe o `id` nos parâmetros e assim que ela for chamada, deve alterar o status do pedido recebido pelo id para "Pronto".
 
 
 ### Exemplo
