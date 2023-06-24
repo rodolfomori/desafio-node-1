@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CodeClub" src="https://i0.wp.com/rodolfomori.com/wp-content/uploads/2021/05/Co%CC%81pia-de-Yellow-White-and-Black-Edgy-Maximalism-Video-Gaming-YouTube-Outro-1-1024x1024.png" width="300px" />
+    <img alt="DevClub" src="https://rodolfomori.com.br/wp-content/uploads/elementor/thumbs/LOGO-DEV-BRANCO-pu1b6jzcdik7pha8vublkvsmtnvjp5462qplk6kdo0.png" width="300px" />
 </h1>
 
 <h2 align="center">
